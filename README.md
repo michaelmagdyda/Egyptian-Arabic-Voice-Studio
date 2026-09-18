@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/e6166098-a698-44a0-935e-ca9d8d0532c8
+View your app in AI Studio: https://egyptian-voice16.ai.studio
 
 ## Run Locally
 
